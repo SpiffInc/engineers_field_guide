@@ -1,4 +1,4 @@
-# Spiff Engineering Field Guid
+# Spiff Engineering Field Guide
 
 * [Introduction](01.Introduction.md)
 * [Setting Your Course](02.SettingYourCourse.md)
